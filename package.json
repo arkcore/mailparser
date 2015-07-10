@@ -17,15 +17,10 @@
     "test": "nodeunit test/"
   },
   "main": "./lib/mailparser",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/andris9/mailparser/blob/master/LICENSE"
-    }
-  ],
   "optionalDependencies": {
     "node-icu-charset-detector": "^0.1.0"
   },
+  "license": "MIT",
   "dependencies": {
     "mimelib": "^0.2.19",
     "encoding": "^0.1.11",
