@@ -1,7 +1,7 @@
 {
   "name": "mailparser",
   "description": "Asynchronous and non-blocking parser for mime encoded e-mail messages",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "author": "Andris Reinman",
   "maintainers": [
     {
@@ -26,7 +26,7 @@
     "mime": "^1.3.4",
     "mimelib": "^0.2.19",
     "node-icu-charset-detector": "arkcore/node-icu-charset-detector",
-    "uue": "^2.1.0"
+    "uue": "^2.1.1"
   },
   "devDependencies": {
     "nodeunit": "^0.9.1"
